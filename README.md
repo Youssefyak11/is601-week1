@@ -8,3 +8,6 @@ Example: pwd
 Purpose: List directory contents.
 Example:
     ls -la
+Purpose: Move between folders.
+Example:
+    cd /usr/local
