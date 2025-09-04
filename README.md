@@ -15,3 +15,6 @@ Example:
 Purpose: Create a new folder.
 Example:
     mkdir logs
+Purpose: Quickly create a file.
+Example:
+    touch notes.txt
