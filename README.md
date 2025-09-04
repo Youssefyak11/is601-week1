@@ -18,3 +18,6 @@ Example:
 Purpose: Quickly create a file.
 Example:
     touch notes.txt
+Purpose: Copy a file or folder.
+Example:
+    cp notes.txt notes.bak
