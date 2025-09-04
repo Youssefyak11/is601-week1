@@ -20,4 +20,7 @@ Example:
     touch notes.txt
 Purpose: Copy a file or folder.
 Example:
-    cp notes.txt notes.bak
+   cp notes.txt notes.bak
+Purpose: Move or rename files/folders.
+Example:
+    mv notes.txt docs/notes.txt
