@@ -5,3 +5,6 @@ I created one branch per command and merged each into `main`.files
 Purpose: Show the full path of the current directory.
 Example: pwd
 
+Purpose: List directory contents.
+Example:
+    ls -la
