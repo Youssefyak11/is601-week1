@@ -39,3 +39,6 @@ Purpose: Adjust read/write/execute bits.
 Example:
     chmod +x script.sh
 
+Purpose: Show changes and branch info.
+Example:
+    git status
