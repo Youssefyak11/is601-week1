@@ -42,3 +42,7 @@ Example:
 Purpose: Show changes and branch info.
 Example:
     git status
+Purpose: Add files to the next commit.
+Example:
+    git add README.md
+
