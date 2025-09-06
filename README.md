@@ -56,3 +56,6 @@ Purpose: Merge changes into the current branch.
 Example:
     git switch main
     git merge feature-x
+Purpose: Copy a file or folder.
+Example:
+    cp notes.txt notes.bak
