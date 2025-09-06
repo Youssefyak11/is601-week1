@@ -31,3 +31,7 @@ Example:
 Purpose: Delete files (careful!).
 Example:
     rm notes.bak
+Purpose: Find lines matching a pattern.
+Example:
+    grep "ERROR" app.log
+
