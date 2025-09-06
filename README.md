@@ -49,3 +49,6 @@ Example:
 Purpose: Record staged changes with a message.
 Example:
     git commit -m "Add grep example"
+Purpose: List/create/delete branches.
+Example:
+    git branch -a
