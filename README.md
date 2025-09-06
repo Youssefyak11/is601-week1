@@ -35,3 +35,7 @@ Purpose: Find lines matching a pattern.
 Example:
     grep "ERROR" app.log
 
+Purpose: Adjust read/write/execute bits.
+Example:
+    chmod +x script.sh
+
