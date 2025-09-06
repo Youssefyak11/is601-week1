@@ -52,3 +52,7 @@ Example:
 Purpose: List/create/delete branches.
 Example:
     git branch -a
+Purpose: Merge changes into the current branch.
+Example:
+    git switch main
+    git merge feature-x
