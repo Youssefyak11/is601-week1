@@ -24,3 +24,7 @@ Example:
 Purpose: Move or rename files/folders.
 Example:
     mv notes.txt docs/notes.txt
+Purpose: Move or rename files/folders.
+Example:
+    mv notes.txt docs/notes.txt
+
