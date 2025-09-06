@@ -46,3 +46,6 @@ Purpose: Add files to the next commit.
 Example:
     git add README.md
 
+Purpose: Record staged changes with a message.
+Example:
+    git commit -m "Add grep example"
