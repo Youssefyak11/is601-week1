@@ -28,3 +28,6 @@ Purpose: Move or rename files/folders.
 Example:
     mv notes.txt docs/notes.txt
 
+Purpose: Delete files (careful!).
+Example:
+    rm notes.bak
